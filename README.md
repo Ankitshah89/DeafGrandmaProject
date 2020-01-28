@@ -25,7 +25,7 @@ We are going to see your sweet old Grandma. Unfortunately, she can't hear very w
 * Defining arrays to array objects
 * Use of index in an array to access data items
 * Object Oriented Programming
-* How classes are created to make an object
+* How classes are created to make an objecta
 * Objects field and methods
 * Use of reference variable to control and object
 * Difference between static and instance fields
